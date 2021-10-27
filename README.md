@@ -5,8 +5,9 @@ _PRACTICA #1_ [Simulacion de trafico:INFORME](https://github.com/HelenCVM/Materi
 
 ## Actividades en clase 📌
 ### Dados
-```_Tarea #1_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Dados/FORMATO%20DE%20INFORME%20DE%20PRA%CC%81CTICA%20DE%20LABORATORIO%20(ESTUDIANTES).pdf) ```
-``` _Tarea #1_ [CODIGO](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Dados/Tarea_1%20(1).ipynb) ```
+_Tarea #1_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Dados/FORMATO%20DE%20INFORME%20DE%20PRA%CC%81CTICA%20DE%20LABORATORIO%20(ESTUDIANTES).pdf)
+
+_Tarea #1_ [CODIGO](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Dados/Tarea_1%20(1).ipynb)
 
 ### Juego de la vida
 _Tarea #2_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-JuegoDelaVida/juegodelavida.pdf) 
