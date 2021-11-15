@@ -12,6 +12,6 @@ _Tarea #1_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/En
 _Tarea #2_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-JuegoDelaVida/juegodelavida.pdf) 
 
 ### FIFA
-_Tarea #n_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Fifa/fifa.ipynb) 
+_Tarea #n_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Fifa/fifa.ipynb) 
 
  
