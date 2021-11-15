@@ -10,4 +10,8 @@ _Tarea #1_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/En
 
 ### Juego de la vida
 _Tarea #2_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-JuegoDelaVida/juegodelavida.pdf) 
+
+### FIFA
+_Tarea #n_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Fifa/fifa.ipynb) 
+
  
