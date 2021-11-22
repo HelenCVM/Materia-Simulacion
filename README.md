@@ -14,4 +14,5 @@ _Tarea #2_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/En
 ### FIFA
 _Tarea #n_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Fifa/fifa.ipynb) 
 
- 
+### Algoritmo Tausworthe
+_Tarea #n_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-%20Tausworthe/Untitled13.ipynb)  
