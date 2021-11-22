@@ -12,7 +12,7 @@ _Tarea #1_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/En
 _Tarea #2_ [INFORME](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-JuegoDelaVida/juegodelavida.pdf) 
 
 ### FIFA
-_Tarea #n_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Fifa/fifa.ipynb) 
+_Tarea #3_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-Fifa/fifa.ipynb) 
 
 ### Algoritmo Tausworthe
-_Tarea #n_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-%20Tausworthe/Untitled13.ipynb)  
+_Tarea #4_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-%20Tausworthe/Untitled13.ipynb)  
