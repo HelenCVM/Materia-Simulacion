@@ -19,3 +19,9 @@ _Tarea #4_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob
 
 ### Algoritmo Montecarlo
 _Tarea #5_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-MonteCarlo/MonteCarlo.ipynb)  
+
+
+### Segundo corte 📌
+### Actividades en clase 📌
+### Distribuciones de probabilidad
+_Tarea #1_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/EntregableC2-DistribucionesdeProbabilidad/TareaProbabilidades.ipynb) 
