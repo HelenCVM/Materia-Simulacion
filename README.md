@@ -20,6 +20,9 @@ _Tarea #4_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob
 ### Algoritmo Montecarlo
 _Tarea #5_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-MonteCarlo/MonteCarlo.ipynb)  
 
+## Pruebas📌
+_Prueba #2_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/Entregable-%20Prueba2/Prueba2.ipynb) 
+
 
 ### Segundo corte 📌
 ### Actividades en clase 📌
