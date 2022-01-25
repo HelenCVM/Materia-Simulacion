@@ -27,4 +27,4 @@ _Prueba #2_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blo
 # Segundo corte 📌
 ### Actividades en clase 📌
 ### Distribuciones de probabilidad
-_Tarea #1_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/EntregableC2-DistribucionesdeProbabilidad/TareaProbabilidades.ipynb) 
+_Tarea #1_ [CUADERNO PYTHON](https://github.com/HelenCVM/Materia-Simulacion/blob/main/EntregableC2-DistribucionesdeProbabilidad/TareaProbabilidadesfinal.ipynb) 
